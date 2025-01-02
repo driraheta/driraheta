@@ -28,7 +28,6 @@ Me especializo en **desarrollo web empresarial**, especialmente en soluciones pa
 ## 🌍 Conecta conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/diego-iraheta-23181b181/)
-- [Twitter](tu-twitter) *(si tienes uno)*
 - [Correo electrónico](mailto:tu-email@example.com) *(si quieres añadir uno)*
 - [Portafolio](tu-portafolio.com) *(si tienes uno)*
 
